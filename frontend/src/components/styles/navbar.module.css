@@ -1,0 +1,31 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.Navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.WebsiteLogo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.WebsiteLogo img {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+  margin-right: 10px;
+  vertical-align: middle;
+  border-radius: 50%;
+}
